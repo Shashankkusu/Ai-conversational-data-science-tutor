@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg" fill="none">
+    <!-- Background -->
+    <rect width="400" height="200" fill="#F5F7FA"/>
+    
+    <!-- Book & Arrow Icon -->
+    <path d="M100 130 L150 80 L200 130" stroke="#1E88E5" stroke-width="10" fill="none"/>
+    <path d="M150 80 L150 40" stroke="#1E88E5" stroke-width="10"/>
+    <polygon points="140,50 150,30 160,50" fill="#1E88E5"/>
+    
+    <!-- Company Name -->
+    <text x="80" y="170" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#333">Shashank Edventures</text>
+    <text x="130" y="190" font-family="Arial, sans-serif" font-size="16" fill="#666">Pvt. Ltd.</text>
+</svg>
